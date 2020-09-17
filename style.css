@@ -55,9 +55,7 @@ a:hover {
   border: none !important;
   box-shadow: none !important;
 }
-button:focus {
-  display: none;
-}
+
 /* carousel section */
 .carousel,
 .carousel img,
